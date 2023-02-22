@@ -1,0 +1,82 @@
+[
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group1",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group2",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group3",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group4",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-02-01 00:00:00.000",
+        "ResourceGroup": "group5",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group6",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group7",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group8",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group1",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group2",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group3",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group4",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group5",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group6",
+        "Cost": "1000.234"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group7",
+        "Cost": "3456.3456"
+    },
+    {
+        "BillingPeriodStartDate": "2023-01-01 00:00:00.000",
+        "ResourceGroup": "group8",
+        "Cost": "3456.3456"
+    }
+]
