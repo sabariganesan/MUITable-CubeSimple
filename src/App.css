@@ -1,0 +1,9 @@
+.App {
+    width: 90%;
+    padding-top: 1rem;
+}
+
+.App-container {
+    display: flex;
+    justify-content: center;
+}

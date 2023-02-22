@@ -8,9 +8,12 @@ function App() {
     console.log(rowData);
   }
   return (
-    <div className="App">
-      <DataTable rowData={SampleData.map((doc, index) => ({ ...doc, id: index + 1 }))} onRowSelect={onRowSelect} />
-    </div>
+    <main className='App-container' >
+      <div className="App">
+        <DataTable rowData={SampleData.map((doc, index) => ({ ...doc, id: index + 1 }))} onRowSelect={onRowSelect} />
+      </div>
+    </main>
+
   );
 }
 
